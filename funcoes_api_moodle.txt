@@ -1,0 +1,27 @@
+Funções de usuário:
+core_user_create_users
+core_user_delete_users
+core_user_get_users
+core_user_update_users
+core_auth_request_password_reset
+core_user_get_users_by_field
+
+
+Funções de categoria de curso:
+core_course_create_categories
+core_course_delete_categories
+core_course_get_categories
+core_course_update_categories
+
+
+Funções de curso:
+core_course_create_courses
+core_course_delete_courses
+core_course_get_courses
+core_course_update_courses
+core_course_get_courses_by_field
+
+Funções da inscrição:
+enrol_manual_unenrol_users
+core_enrol_get_enrolled_users
+enrol_manual_unenrol_users
